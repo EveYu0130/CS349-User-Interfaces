@@ -1,7 +1,6 @@
 Description:
-    This project is an Android mobile application,which allows users to display 
-    a grid (or list) of thumbnail images, rate each image, 
-    and filter the list of images by this rating.
+    This is an interactive Android mobile application that allows users to load images, and display these images in a dynamic layout that responds to device orientation. Users can rate images (1-5), and filter them based on this rating. 
+    
     
 Functions:
     - User can load images (from resources).
